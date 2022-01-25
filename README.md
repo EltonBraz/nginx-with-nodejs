@@ -4,7 +4,7 @@
 
     O retorno da aplicação node.js para o nginx deverá ser:
 
-    ```
+    ```html
     <h1>Full Cycle Rocks!</h1>
     ```
 
